@@ -1,4 +1,5 @@
 go:
    loc: ~/source/repos/examples/go.py
    tabCompletion: [ a,b,c]
+   monitor: false
    
