@@ -1,6 +1,13 @@
 ### HexBook
 HexBook provides a fast and easy to integrate all your scripts into a unified command line interface with tab completion, history, and monitoring.
 
+
+#### HexBook.yaml Schema
+Command:
+   loc: path to script to run
+   TabCompletion: array of options for tab completion or path to script that generates completions
+   monitor: boolean for if HexBook should monitor the script and notify when the script finishes
+
 <!--
 **HexBook/HexBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
