@@ -1,5 +1,5 @@
 ### HexBook
-HexBook provides a fast and easy to integrate all your scripts into a unified command line interface with tab completion, history, and monitoring.
+HexBook provides a fast and easy way to integrate all your scripts into a unified command line interface with tab completion, history, and monitoring.
 
 <!--
 **HexBook/HexBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
